@@ -1,0 +1,5 @@
+name: evolveum-midpoint
+title: Evolveum MidPoint
+version: latest
+nav:
+- modules/ROOT/nav.adoc
