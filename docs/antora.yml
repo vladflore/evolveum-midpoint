@@ -1,5 +1,5 @@
 name: evolveum-midpoint
 title: Evolveum MidPoint
-version: 4.10
+version: "4.10"
 nav:
 - modules/ROOT/nav.adoc
