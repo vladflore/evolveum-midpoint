@@ -1,1 +1,29 @@
-= Welcome to Evolveum MidPoint!
+= MidPoint Configuration Reference
+:page-nav-title: Configuration Reference
+:page-display-order: 90
+:page-upkeep-status: green
+
+This is a reference documentation for midPoint administration and configuration.
+Following documents describe the details of midPoint configuration, behavior, customization options and all the other details that are necessary to use midPoint to its full potential.
+
+This is a *reference* documentation.
+Its purpose is depth and breath of information.
+Each page is dedicated to a particular topic.
+However, the pages are not ordered in a logical, easy-to-read ordering.
+Therefore it may be confusing for people that are new to midPoint.
+
+For an easy-to-read introduction to midPoint we highly recommend starting with xref:evolveum-docs::book/index.adoc[MidPoint Book] or https://www.youtube.com/channel/UCSDs8qBlv7MgRKRLu1rU_FQ[videos on Evolveum YouTube channel].
+High-level description of midPoint features can be found in xref:evolveum-docs::midpoint/features/current/index.adoc[midPoint features] part of this site.
+Instructions for handling particular tasks may also be found in xref:evolveum-docs::midpoint/guides/index.adoc[midPoint guides] section.
+
+== Reference Documentation Sections
+
+// Child pages will be listed here as sections are migrated.
+
+== See Also
+
+* xref:evolveum-docs::book/index.adoc[MidPoint Book]
+* https://www.youtube.com/channel/UCSDs8qBlv7MgRKRLu1rU_FQ[Evolveum YouTube channel]
+* xref:evolveum-docs::midpoint/features/current/index.adoc[midPoint features]
+* xref:evolveum-docs::midpoint/guides/index.adoc[midPoint guides]
+* xref:evolveum-docs::support/index.adoc[Subscription and Support]
