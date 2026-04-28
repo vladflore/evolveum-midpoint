@@ -1,4 +1,8 @@
 * xref:index.adoc[Home]
+* Admin GUI
+** Resource Wizard
+*** Object type
+**** xref:admin-gui/resource-wizard/object-type/credentials/index.adoc[Credentials]
 * Roles & Policies
 ** Policies
 *** xref:roles-policies/policies/certification/index.adoc[Access Certification]
