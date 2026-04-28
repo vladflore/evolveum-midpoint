@@ -2,3 +2,7 @@
 * Roles & Policies
 ** Policies
 *** xref:roles-policies/policies/certification/index.adoc[Access Certification]
+* Administration User Interface
+** Resource Wizards
+*** Object type configuration
+**** xref:admin-gui/resource-wizard/object-type/credentials/index.adoc[Credentials]
