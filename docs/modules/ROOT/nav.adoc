@@ -1,2 +1,4 @@
 * xref:index.adoc[Home]
-* xref:roles-policies/policies/certification/index.adoc[Access Certification]
+* Roles & Policies
+** Policies
+*** xref:roles-policies/policies/certification/index.adoc[Access Certification]
