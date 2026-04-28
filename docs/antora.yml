@@ -1,6 +1,6 @@
 name: evolveum-midpoint
 title: Evolveum MidPoint
-version: dev
+version: Development
 prerelease: true
 nav:
 - modules/ROOT/nav.adoc
