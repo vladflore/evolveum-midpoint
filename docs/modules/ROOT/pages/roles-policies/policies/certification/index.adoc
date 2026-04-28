@@ -26,7 +26,7 @@ The default is that only cases which were not revoked/reduced are transferred.
 
 Finished (closed) campaigns can be *reiterated*.
 Reiteration re-starts campaigns, giving another chance to reviewers who, for example, have not provided their responses (decisions) in time.
-For more details on iterations, see xref:roles-policies/policies/certification/iteration/index.adoc[].
+For more details on iterations, see xref:roles-policies/policies/certification/iteration/index.adoc[Certification Campaign Iteration].
 
 
 == Certification campaign
@@ -119,7 +119,7 @@ In the example above, the first notification is sent 48 hours and the second one
 * *reviewerSpecification* - Defines how reviewers are selected.
 In our example, everything will be reviewed by the administrator.
 
-For a complete list of options for stage definitions and a more detailed explanation, see xref:roles-policies/policies/certification/stages/index.adoc[].
+For a complete list of options for stage definitions and a more detailed explanation, see xref:roles-policies/policies/certification/stages.adoc[Configuring Certification Campaign Stages].
 
 == Quick tutorial
 
@@ -207,7 +207,7 @@ See an example of a more advanced scope definition that selects user-role assign
 [[stage_definitions]]
 === Stage definitions
 
-This is described in a separate document - xref:roles-policies/policies/certification/stages/index.adoc[].
+This is described in a separate document - xref:roles-policies/policies/certification/stages.adoc[Configuring Certification Campaign Stages].
 
 [[automated_scheduling_of_campaigns]]
 === Automate campaign scheduling
@@ -348,8 +348,8 @@ Collection views can also contain columns and actions configuration.
             </defaultView>
 ----
 
-To learn more about actions configuration, see xref:roles-policies/policies/certification/actions/index.adoc[GUI Actions].
-To learn more about columns configuration, see xref:roles-policies/policies/certification/columns-configuration/index.adoc[Columns configuration].
+To learn more about actions configuration, see xref:roles-policies/policies/certification/actions.adoc[GUI Actions].
+To learn more about columns configuration, see xref:roles-policies/policies/certification/columns-configuration.adoc[Columns configuration].
 
 You can also define object collection view configuration within the access certification definition (_view_ element).
 This configuration will be merged with the global configuration and applied to all campaigns based on this definition.
@@ -418,9 +418,9 @@ For details, see xref:roles-policies/policies/certification/reports/index.adoc[A
 == Notifications
 
 The certification module provides notifications for the certification campaign owner, as well as for individual reviewers.
-For more information, see xref:roles-policies/policies/certification/notifications/index.adoc[Access Certification Notifications].
+For more information, see xref:roles-policies/policies/certification/notifications.adoc[Access Certification Notifications].
 
 == Security
 
 Individual operations are authorized in a specific way.
-For details, see xref:roles-policies/policies/certification/authorization/index.adoc[Access Certification Security].
+For details, see xref:roles-policies/policies/certification/authorization.adoc[Access Certification Security].
