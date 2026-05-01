@@ -1,6 +1,6 @@
 name: midpoint
 title: Evolveum MidPoint
-version: 4.7
+version: before-4.8
 display_version: 4.7 and earlier
 nav:
 - modules/ROOT/nav.adoc
