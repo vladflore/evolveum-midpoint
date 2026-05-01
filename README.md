@@ -1,1 +1,1 @@
-# evolveum-midpoint
+# midpoint
