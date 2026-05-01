@@ -1,6 +1,6 @@
 name: midpoint
 title: Evolveum MidPoint
-version: master
+version: development 
 display_version: Development
 prerelease: true
 start_page: reference/index.adoc
