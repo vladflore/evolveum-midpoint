@@ -1,8 +1,8 @@
-* xref:index.adoc[Home]
+* xref:reference/index.adoc[Home]
 * Roles & Policies
 ** Policies
-*** xref:roles-policies/policies/certification/index.adoc[Access Certification]
+*** xref:reference/roles-policies/policies/certification/index.adoc[Access Certification]
 * Administration User Interface
 ** Resource Wizards
 *** Object type configuration
-**** xref:admin-gui/resource-wizard/object-type/credentials/index.adoc[Credentials]
+**** xref:reference/admin-gui/resource-wizard/object-type/credentials/index.adoc[Credentials]
