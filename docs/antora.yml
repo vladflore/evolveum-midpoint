@@ -1,6 +1,6 @@
 name: midpoint
 title: Evolveum MidPoint
-version: development
+version: master
 display_version: Development
 prerelease: true
 nav:
