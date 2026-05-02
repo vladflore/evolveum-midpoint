@@ -3,6 +3,6 @@ title: Evolveum MidPoint
 version: development 
 display_version: Development
 prerelease: true
-# start_page: reference/index.adoc
+start_page: reference:index.adoc
 nav:
 - modules/ROOT/nav.adoc
