@@ -2,6 +2,7 @@ name: midpoint
 title: Evolveum MidPoint
 version: support-4.8
 display_version: 4.8
-start_page: ROOT:reference/index.adoc
+# prevents /midpoint redirect to /midpoint/reference
+# start_page: ROOT:reference/index.adoc
 nav:
 - modules/ROOT/nav.adoc
